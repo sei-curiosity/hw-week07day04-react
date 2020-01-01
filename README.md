@@ -7,10 +7,10 @@ As an introduction to React, we are going to use the Scrimba video tutorials.
 ## What you will build:
 
 ### ToDoList
-![todolist](https://scrimba.com/static/img/glearnreact-project-1.png)
+![todolist](https://scrimba.com/p/p6ryrsV/c97zKPfM)
 
 ### MemeGenerator
-![meme](https://scrimba.com/static/img/glearnreact-project-2.png)
+![meme](https://scrimba.com/p/p7P5Hd/c6K77um)
 
 You will need to code along with the tutorial and submit your work.
 
