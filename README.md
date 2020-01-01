@@ -20,27 +20,27 @@ You should commit after each day's hw with the correct message like "Tuesday HW"
 
 - Phase 1
 - Complete videos and code along for videos 1 - 11.
-- Commit message should be "Tuesday HW" 
+- Commit message should be "React Intro HW" 
 
 ## HW: React Props
 
 - Phase 2 & 3
 - Complete videos and code along for videos 12 - 23.
-- Commit message should be "Wednesday HW" 
+- Commit message should be "React Props HW" 
 
 ## HW: React State and Events
 
 - Phase 4, 5 & 6
 - Complete videos and code along for videos 24 - 33.
-- Commit message should be "Thursday HW" 
+- Commit message should be "React state HW" 
 
 ## HW: React Lifecycle and Conditionals
 
 - Phase 7
 - Complete videos and code along for videos 34 - 39.
-- Commit message should be "Sunday HW" 
+- Commit message should be "React lifecycle HW" 
 
 ## HW: React AJAX and Forms
 
 - Complete videos 40 - 48.
-- Commit message should be "Monday HW" 
+- Commit message should be "React forms HW" 
