@@ -3,24 +3,18 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  // Adding a number from front end seams a bit involved so instead will define
+  // the two numbers here and display their addition on screen
+  let num1 = 2;
+  let num2 = 3;
+  function add(a,b) {
+    return a+b    
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <h1 className="App">
+      {num1} + {num2} = {add(num1,num2)}
+    </h1>
+  )
 }
 
 export default App;
