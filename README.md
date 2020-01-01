@@ -14,7 +14,7 @@ meme : (https://scrimba.com/p/p7P5Hd/c6K77um)
 
 You will need to code along with the tutorial and submit your work.
 
-You should commit after each day's hw with the correct message like "Tuesday HW" so we can see your progress.
+You should commit after each day's hw with the correct message as mentioned below, so we can see your progress.
 
 ## HW: React Introduction
 
