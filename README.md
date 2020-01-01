@@ -1,46 +1,7 @@
 # HW React
 
-As an introduction to React, we are going to use the Scrimba video tutorials.
-
-- https://scrimba.com/g/glearnreact
-
-## What you will build:
-
-### ToDoList
-todolist : (https://scrimba.com/p/p6ryrsV/c97zKPfM)
-
-### MemeGenerator
-meme : (https://scrimba.com/p/p7P5Hd/c6K77um)
-
-You will need to code along with the tutorial and submit your work.
-
-You should commit after each day's hw with the correct message as mentioned below, so we can see your progress.
-
-## HW: React Introduction
-
-- Phase 1
-- Complete videos and code along for videos 1 - 11.
-- Commit message should be "React Intro HW" 
-
-## HW: React Props
-
-- Phase 2 & 3
-- Complete videos and code along for videos 12 - 23.
-- Commit message should be "React Props HW" 
-
-## HW: React State and Events
-
-- Phase 4, 5 & 6
-- Complete videos and code along for videos 24 - 33.
-- Commit message should be "React state HW" 
-
-## HW: React Lifecycle and Conditionals
-
-- Phase 7
-- Complete videos and code along for videos 34 - 39.
-- Commit message should be "React lifecycle HW" 
-
-## HW: React AJAX and Forms
-
-- Complete videos 40 - 48.
-- Commit message should be "React forms HW" 
+1. Create a New React app. (Refer to the lessons today to see how to create a new React App.)
+2. After creating a new App. Edit the App.js and add one component in it
+3. Add a function named 'Adder' that adds two numbers.
+4. In your App component, using JSX render the component as :
+  ```The sum of 'num1' and 'num2' is 'answer'```
