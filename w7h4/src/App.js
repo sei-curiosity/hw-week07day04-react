@@ -11,7 +11,7 @@ function App() {
    
   return (
     <div className="App">
-      <h1>Math</h1>
+      <h1>Math</h1><hr/>
   <p>First-Number={num1= 5} <br/>Second-Number={num2= 10 }<br/>
   totel:
   {totel =num1+num2}
